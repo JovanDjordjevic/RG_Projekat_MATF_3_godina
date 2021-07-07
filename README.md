@@ -1,3 +1,6 @@
+Forkovano za slucaj da originalni repozitorijum sa projektima bude izbrisan.<br>
+Link ka originalnom repozitorijumu: https://github.com/MATF-RG19/RG56-jumping-balls
+
 # Jumping Balls
 
 ### :memo: Opis:
